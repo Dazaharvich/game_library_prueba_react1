@@ -1,0 +1,11 @@
+.card{
+    background-color: darkgrey;
+    box-shadow: 7px 5px #6b6b6b;
+    
+}
+.card:hover{
+    border-radius:2%;
+    -webkit-border-radius:2%;
+    box-shadow: 0px 0px 15px 15px #029bca;
+    -webkit-box-shadow: 0px 0px 7px 5px #029bca;
+    }
